@@ -1,6 +1,6 @@
 # KalaCeylon | E-Commerce Website
 
-![KalaCeylon Screenshot](assets/imgs/main/kala ceyln.jpg)
+![KalaCeylon Screenshot](KalaCeylon/assets/imgs/main/Poster.jpg)
 
 ## Project Overview
 **KalaCeylon** is an e-commerce website designed and developed as part of the Web Development course module. It showcases Sri Lankan heritage through paintings, antiques, and handmade products. This project was built to provide Ceylon Artistry with an online platform to expand its reach and generate online sales.
